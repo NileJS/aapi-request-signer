@@ -1,0 +1,19 @@
+{
+  "name": "aapi-request-signer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileJS/aapi-request-signer.git"
+  },
+  "author": "Ibrahim Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NileJS/aapi-request-signer/issues"
+  },
+  "homepage": "https://github.com/NileJS/aapi-request-signer#readme"
+}
